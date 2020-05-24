@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457836514835",
+    "firebase_url": "https://chat-com-firebase-exercicio.firebaseio.com",
+    "project_id": "chat-com-firebase-exercicio",
+    "storage_bucket": "chat-com-firebase-exercicio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457836514835:android:9a03f26e65460046d579e6",
+        "android_client_info": {
+          "package_name": "com.example.chatcomfirebaseexercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457836514835-gfv1r5lbtpm20gecihcerfgasa0pcrpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5CyaR1z6Cnahxjt9gMNKq8Jk6kN2ImmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457836514835-gfv1r5lbtpm20gecihcerfgasa0pcrpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
